@@ -11,6 +11,7 @@
     "watch": "gulp server:watch"
   },
   "author": "IBM Corp.",
+  "License": "Apache-2.0",
   "dependencies": {
     "body-parser": "1.15.1",
     "basic-auth-connect": "1.0.0",
